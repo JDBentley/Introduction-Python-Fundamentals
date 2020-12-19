@@ -22,3 +22,8 @@ meal = 'dinner'
 # Printing out dinner
 print("Dinner:")
 print(meal)
+
+#fix below errors (I've corrected these. No longer contain errors)
+print('This message has mismatched quote marks!')
+print('Abracadabra')
+
