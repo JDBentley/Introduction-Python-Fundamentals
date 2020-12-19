@@ -2,6 +2,8 @@
 my_name = 'Jesse'
 print('Hello and welcome ' + my_name + '!')
 
+
+
 # We've defined the variable "meal" here to the name of the food we ate for breakfast!
 meal = "An english muffin"
 
@@ -23,14 +25,27 @@ meal = 'dinner'
 print("Dinner:")
 print(meal)
 
+
+
 #fix below errors (I've corrected these. No longer contain errors)
 print('This message has mismatched quote marks!')
 print('Abracadabra')
+
+
 
 # Define the release and runtime integer variables below:
 release_year = 2020
 runtime = 120
 
-
 # Define the rating_out_of_10 float variable below: 
 rating_out_of_10 = 7.5
+
+
+print(25 * 68 + 13 / 28)
+
+
+
+uilt_width = 8
+quilt_length = 12
+quilt_length = 8
+print(quilt_width * quilt_length)
